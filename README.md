@@ -1,4 +1,4 @@
-# Analyzing-File-Based-Viruses-Using-VirusTotal
+# Analyzing-Malicious-Payload
 Analyzing potential indicators to determine the type of attack
 
 Description: Virus Total is a free online service that analyzes files and URLs to identify potential malware. Virus Total combines 70 antivirus scanners and URL/domain blacklisting services along with other tools to identify malware. A wide range of files can be submitted to VirusTotal for examination, such as user data files and documents, executable programs, PDFs, and images. One of the uses of Virus Total is to provide a “second opinion” on a file or URL that may have been flagged as suspicious by other scanning software. In this project, you use VirusTotal to scan a file and a URL.
